@@ -1,18 +1,9 @@
 import './App.css';
 
 
-
 function App() {
 
-
-
-
-
-
-
-
-
-  return (
+   return (
     <>
       <h1>This is Vaibhav Yadav</h1>
     </>
