@@ -1,0 +1,6 @@
+type AWSTech @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  fname: String!
+  lname: Int!
+  rollnumber: String!
+}
